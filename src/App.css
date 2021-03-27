@@ -17,3 +17,22 @@
   justify-content: center;
   color: aliceblue;
 }
+
+.searchdiv {
+  justify-content: center;
+  text-align: center;
+}
+.searchInput {
+  text-align: center;
+  background-color: #051937;
+  color: aliceblue;
+  width: 20%;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+}
+.searchInput:focus {
+  width: 50%;
+  transition: 2s;
+}

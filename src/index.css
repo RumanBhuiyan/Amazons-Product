@@ -1,1 +1,11 @@
+.checkdiv {
+  height: 60px;
+  margin: auto;
+  justify-content: center;
+}
 
+#checktext {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Fira Code;
+}
